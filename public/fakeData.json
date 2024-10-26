@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "player_img": "https://i.ibb.co/5BwZzN3/virat-kohli.webp",
+        "player_name": "Virat Kohli",
+        "player_nation": "India",
+        "player_type": "Batsman",
+        "batting_type": "Left-Hand-Bat",
+        "price": 2000000
+    },
+    {
+        "id": 2,
+        "player_img": "https://i.ibb.co/cCVrvPy/jasprit-bumrah.webp",
+        "player_name": "Jasprit Bumrah",
+        "player_nation": "India",
+        "player_type": "Bowler",
+        "batting_type": "Left-Hand-Bat",
+        "price": 1800000
+    },
+    {
+        "id": 3,
+        "player_img": "https://i.ibb.co/2gRRV7h/ben-stokes.webp",
+        "player_name": "Ben Stokes",
+        "player_nation": "England",
+        "player_type": "Allrounder",
+        "batting_type": "Left-Hand-Bat",
+        "price": 2500000
+    },
+    {
+        "id": 4,
+        "player_img": "https://i.ibb.co/Hh0FJdK/kane-williamson.webp",
+        "player_name": "Kane Williamson",
+        "player_nation": "New Zealand",
+        "player_type": "Batsman",
+        "batting_type": "Left-Hand-Bat",
+        "price": 1700000
+    },
+    {
+        "id": 5,
+        "player_img": "https://i.ibb.co/TYXrm5L/trent-boult.webp",
+        "player_name": "Trent Boult",
+        "player_nation": "New Zealand",
+        "player_type": "Bowler",
+        "batting_type": "Right-Hand-Bat",
+        "price": 1600000
+    },
+    {
+        "id": 6,
+        "player_img": "https://i.ibb.co/TR7jtt9/david-warner.webp",
+        "player_name": "David Warner",
+        "player_nation": "Australia",
+        "player_type": "Batsman",
+        "batting_type": "Right-Hand-Bat",
+        "price": 1900000
+    },
+    {
+        "id": 7,
+        "player_img": "https://i.ibb.co/6mM919w/rashid-khan.webp",
+        "player_name": "Rashid Khan",
+        "player_nation": "Afghanistan",
+        "player_type": "Bowler",
+        "batting_type": "Right-Hand-Bat",
+        "price": 2100000
+    },
+    {
+        "id": 8,
+        "player_img": "https://i.ibb.co/nBWMQz2/shakib-al-hasan.webp",
+        "player_name": "Shakib Al Hasan",
+        "player_nation": "Bangladesh",
+        "player_type": "Allrounder",
+        "batting_type": "Left-Hand-Bat",
+        "price": 2200000
+    },
+    {
+        "id": 9,
+        "player_img": "https://i.ibb.co/1Km1gSp/quinton-de-kock.webp",
+        "player_name": "Quinton de Kock",
+        "player_nation": "South Africa",
+        "player_type": "Batsman",
+        "batting_type": "Right-Hand-Bat",
+        "price": 1500000
+    }
+]
