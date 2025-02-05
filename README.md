@@ -74,5 +74,4 @@ BPL-DREAM 11 is a player selection platform where users can build their dream te
 
 ---
 
-**Screenshot:** *(Attach a clean screenshot of the project here)*
 
